@@ -2,7 +2,7 @@ Robot-Arm-Control
 =================
 
 A control program for the Maplin OWI Robot Arm (available [here](http://www.maplin.co.uk/robotic-arm-kit-with-usb-pc-interface-266257).), but made for Mac - the original software included on CD is Windows only, and pretty toy-like.
-This project is a 'branch' of [ArmCtrl on CodePlex](http://armctrl.codeplex.com).
+This project is a 'branch' of [ArmCtrl on CodePlex](http://armctrl.codeplex.com), made by [Paul80nd](http://www.codeplex.com/site/users/view/paul80nd)
 
 ####Features
 * Control all features using the Keyboard
